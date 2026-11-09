@@ -1,0 +1,11 @@
+SONIDOS DE PENALQUIZ
+Sube a esta carpeta 4 archivos MP3 con EXACTAMENTE estos nombres:
+
+  silbato.mp3   → silbato del árbitro (suena al empezar cada pregunta)
+  gol.mp3       → festejo de gol de la barra
+  aww.mp3       → "uhhh"/decepción de la tribuna cuando ataja el arquero
+  tribuna.mp3   → barra de fondo (cantos/bombos); se repite en loop todo el partido
+
+Dónde bajarlos gratis (uso libre, sin atribución): https://pixabay.com/sound-effects/
+Busca: "referee whistle", "goal crowd", "crowd disappointed", "football crowd chant".
+Ideal: menos de 1 MB cada uno. Si falta alguno, el juego sigue sin ese sonido.
